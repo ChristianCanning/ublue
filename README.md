@@ -1,5 +1,8 @@
 ## Fedora Silverblue for Ubuntu Expatriates
 
+This is a fork of [castrojo/ublue](https://github.com/castrojo/ublue) which configures the desktop to my liking. The main changes to the scripts are that 
+I have removed applications and extensions which I wouldn't have installed on every system as a base. This aims to instead set up an ubuntu-like experience without perfectly matching it, while also removing some of the changes so that the defaults fit the liking of a more wide range of users. Varying from the original script, I have tried to install as little from rpm-ostree as possible, and instead encourage the use of distrobox to manage any other applications that aren't installed via flatpak. Below is the original README from castrojo.
+
 TLDR: I've been using Ubuntu since 2004, however I want a [modern image based desktop](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/).
 Can I have my cake and eat it too?
 This is not a new distribution (whew!), just a different set of defaults and apps scripted up, with a dash of container goodies so I can still also use Ubuntu. 

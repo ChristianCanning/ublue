@@ -46,13 +46,13 @@ fi
 echo "Installing layered packages..."
 rpm-ostree --idempotent install \
     gnome-shell-extension-appindicator \
-    gnome-shell-extension-sound-output-device-chooser \
-    gnome-shell-extension-gamemode \
-    gnome-shell-extension-frippery-move-clock \
+    #gnome-shell-extension-sound-output-device-chooser \
+    #gnome-shell-extension-gamemode \
+    #gnome-shell-extension-frippery-move-clock \
     gnome-shell-extension-dash-to-dock \
-    gnome-shell-extension-gsconnect \
-    libratbag-ratbagd \
-    gnome-tweaks \
+    #gnome-shell-extension-gsconnect \
+    #libratbag-ratbagd \
+    #gnome-tweaks \
     distrobox
 
 echo "You should reboot!"

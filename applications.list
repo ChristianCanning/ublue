@@ -1,18 +1,18 @@
 # Default-y apps
 #
 org.gnome.Dejadup
-org.gnome.Rhythmbox3
-org.gnome.Shotwell
-org.gustavoperedo.FontDownloader
-org.libreoffice.LibreOffice
+#org.gnome.Rhythmbox3
+#org.gnome.Shotwell
+#org.gustavoperedo.FontDownloader
+#org.libreoffice.LibreOffice
 org.mozilla.firefox
-org.mozilla.Thunderbird
-org.freedesktop.Platform.ffmpeg-full/x86_64/21.08
-io.github.celluloid_player.Celluloid
+#org.mozilla.Thunderbird
+#org.freedesktop.Platform.ffmpeg-full/x86_64/21.08
+#io.github.celluloid_player.Celluloid
 com.github.tchx84.Flatseal
 com.mattjakeman.ExtensionManager
-org.gnome.FileRoller
-org.gnome.Firmware
+#org.gnome.FileRoller
+#org.gnome.Firmware
 
 # Other goodies
 #
